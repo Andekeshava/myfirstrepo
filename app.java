@@ -1,3 +1,4 @@
 int i =2;
 int j =3;
-System.out.print(i+j);
+int z =4;
+System.out.print(i+j+z);
